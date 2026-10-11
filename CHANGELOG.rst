@@ -10,6 +10,9 @@ Unreleased
 
 .. vendor-insert-here
 
+- Update vendored schemas: buildkite, circle-ci, citation-file-format, gitlab-ci,
+  meltano, mergify, renovate, snapcraft (2026-10-17)
+
 0.38.2
 ------
 
